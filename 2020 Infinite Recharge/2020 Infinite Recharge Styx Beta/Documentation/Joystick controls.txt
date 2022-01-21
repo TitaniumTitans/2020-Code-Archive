@@ -1,0 +1,38 @@
+1:	Magazine In
+2:	Magazine Out
+3:	Shooter Hold
+4:	Intake In
+5:	Intake Out
+6:	Power Toggle
+7:	Auto Target
+8:	Intake Pistons
+9:	Climber Hold
+10:	Winch In
+11:	Winch Out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IGNORE:
+1:	Auto Target
+2:	Intake In
+3:	Intake Out
+4:	Magazine In
+5:	Magazine Out
+6:	Power Toggle
+7:	Winch In
+8:	Winch Out
+9:	Intake Pistons
+10:	Climber Hold
+11:	Shooter Hold
